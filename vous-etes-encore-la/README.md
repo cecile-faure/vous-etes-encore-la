@@ -6,4 +6,4 @@ Dans cet essai publié en web to print, j'aborde les enjeux de l'essor grandissa
 La mise en forme de cette édition a été réalisée avec le kit ether2html d’OSP.
 Son contenu est déployé en html et css. 
 - le contenu textuel est disponible ici : https://pads.domainepublic.net/p/stream_html
-- le contenu stylistique est disponible là : https://pads.domainepublic.net/p/streeam_css
+- le contenu stylistique est disponible là : https://pads.domainepublic.net/p/stream_css
